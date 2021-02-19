@@ -1,7 +1,7 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+main()
 {
-printf("Hello World");
-getch();
+printf("Welcome to git");
+printf("APSSDC - VRSEC");
 }
+
